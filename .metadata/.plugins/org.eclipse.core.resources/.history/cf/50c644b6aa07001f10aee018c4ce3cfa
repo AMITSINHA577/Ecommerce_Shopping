@@ -1,0 +1,9 @@
+package com.Shooping_Cart.service.impl;
+
+import org.springframework.stereotype.Service;
+
+import com.Shooping_Cart.service.CategoryService;
+
+@Service
+public class CategoryServiceImpl implements CategoryService {
+}

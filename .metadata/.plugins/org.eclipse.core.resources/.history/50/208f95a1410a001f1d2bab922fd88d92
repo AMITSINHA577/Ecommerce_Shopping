@@ -1,0 +1,5 @@
+package com.Shooping_Cart.repository;
+
+public interface ProductRepository {
+
+}

@@ -1,0 +1,19 @@
+package com.Shooping_Cart.model;
+
+public class Product {
+
+	private int id;
+
+	private String title;
+
+	private String description;
+
+	private String category;
+
+	private Double price;
+
+	private int stock;
+
+	private String image;
+
+}
